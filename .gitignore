@@ -1,0 +1,7 @@
+.env
+tokens.json
+*.csv
+*.py
+bling-cadastro-app.md
+.DS_Store
+Thumbs.db
